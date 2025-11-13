@@ -4,8 +4,6 @@ public class HelloWorld {
     }
 }
 
-//dev-2 push from local
-public class MultiplicationTable {
 
     public static void main(String[] args) {
 
@@ -16,3 +14,4 @@ public class MultiplicationTable {
         }
     }
 }
+new code by dev-1 without pull the code
