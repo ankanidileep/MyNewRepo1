@@ -1,0 +1,7 @@
+.container {
+  display: flex; /* Enables Flexbox layout */
+  justify-content: space-around; /* Distributes items evenly with space around them */
+  align-items: center; /* Vertically aligns items in the center */
+  height: 150px; /* Sets a height for demonstration */
+  border: 1px solid #ddd;
+}
